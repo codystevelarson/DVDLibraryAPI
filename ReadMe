@@ -1,0 +1,7 @@
+::DVD LIBRARY API::
+
+A C# back-end RESTful Web API service to manage dvd collections.
+
+
+- Used ASP.NET API with object oriented logic
+- Able to connect any UI to the service to perform REST methods
